@@ -1,0 +1,784 @@
+state,district,users,txns,merchants,txns_per_user,merchants_per_1000_users,avg_ticket_inr
+telangana,medchal malkajgiri district,6313836,759040841,455298,120.2,72.1,1191.0
+telangana,rangareddy district,7229570,845329674,452117,116.9,62.5,1230.0
+telangana,hanumakonda district,801280,92268996,67951,115.2,84.8,1414.0
+andhra pradesh,visakhapatnam district,2800236,304675634,213703,108.8,76.3,1256.0
+puducherry,yanam district,24897,2706255,1323,108.7,53.1,1236.0
+telangana,yadadri bhuvanagiri district,554483,60031560,36456,108.3,65.7,1496.0
+telangana,sangareddy district,1849509,199983054,102640,108.1,55.5,1239.0
+telangana,jangaon district,294708,31754925,20220,107.8,68.6,1580.0
+telangana,nalgonda district,988045,105596264,66537,106.9,67.3,1614.0
+telangana,warangal district,644742,68462628,64159,106.2,99.5,1511.0
+telangana,jayashankar bhupalpally district,211902,22458424,13900,106.0,65.6,1491.0
+telangana,siddipet district,698859,73789970,42335,105.6,60.6,1538.0
+andhra pradesh,ntr district,2258324,237905762,155490,105.3,68.9,1357.0
+telangana,peddapalli district,508652,52753397,29278,103.7,57.6,1410.0
+telangana,mancherial district,542518,56029293,31746,103.3,58.5,1377.0
+andhra pradesh,eluru district,1279217,131965615,67639,103.2,52.9,1447.0
+karnataka,bengaluru urban district,20543058,2113433404,1517644,102.9,73.9,1059.0
+telangana,khammam district,954846,97870411,63019,102.5,66.0,1465.0
+karnataka,bengaluru rural district,1550735,158598671,91224,102.3,58.8,1183.0
+telangana,suryapet district,616636,63010913,43066,102.2,69.8,1688.0
+telangana,bhadradri kothagudem district,706875,71857650,47526,101.7,67.2,1344.0
+andhra pradesh,tirupati district,2219362,225322514,118910,101.5,53.6,1316.0
+telangana,karimnagar district,851085,85576688,66317,100.6,77.9,1486.0
+andhra pradesh,east godavari district,1370485,137797638,74989,100.5,54.7,1449.0
+telangana,mahabubabad district,369170,36822158,27080,99.7,73.4,1522.0
+odisha,khordha district,3062384,304619745,236790,99.5,77.3,969.0
+andhra pradesh,kakinada district,1518007,150675340,94093,99.3,62.0,1344.0
+telangana,mahabubnagar district,650091,64498115,35675,99.2,54.9,1378.0
+andhra pradesh,guntur district,2002926,198471270,132072,99.1,65.9,1359.0
+telangana,nagarkurnool district,412595,40723633,25720,98.7,62.3,1570.0
+telangana,wanaparthy district,291788,28730127,18574,98.5,63.7,1513.0
+telangana,hyderabad district,5840094,572092204,433462,98.0,74.2,1154.0
+andhra pradesh,west godavari district,1195968,116947182,48583,97.8,40.6,1500.0
+andhra pradesh,dr br ambedkar konaseema district,930577,90739703,45653,97.5,49.1,1446.0
+andhra pradesh,sri potti sriramulu nellore district,1729942,167305685,93583,96.7,54.1,1557.0
+andhra pradesh,anakapalli district,1005920,97152961,60549,96.6,60.2,1412.0
+telangana,medak district,452561,42806476,34997,94.6,77.3,1410.0
+telangana,mulugu district,150289,14134739,9726,94.1,64.7,1560.0
+andhra pradesh,prakasam district,1391582,128930871,87194,92.7,62.7,1532.0
+andhra pradesh,vizianagaram district,1027416,94948956,54937,92.4,53.5,1412.0
+telangana,rajanna sircilla district,339164,30997630,22194,91.4,65.4,1673.0
+karnataka,bengaluru south district,858513,77937527,37552,90.8,43.7,1296.0
+andhra pradesh,ananthapuramu district,1555974,140056538,108540,90.0,69.8,1427.0
+andhra pradesh,bapatla district,832865,74429207,59133,89.4,71.0,1472.0
+andhra pradesh,krishna district,944398,84435471,57805,89.4,61.2,1392.0
+telangana,nizamabad district,1064071,95166828,75876,89.4,71.3,1749.0
+andhra pradesh,nandyal district,1064099,94934254,64306,89.2,60.4,1526.0
+telangana,vikarabad district,479805,42818239,26777,89.2,55.8,1332.0
+andhra pradesh,annamayya district,1083722,96492048,50051,89.0,46.2,1594.0
+karnataka,bidar district,920924,81955236,62324,89.0,67.7,1292.0
+telangana,kamareddy district,498746,44069147,40658,88.4,81.5,1614.0
+telangana,jogulamba gadwal district,301478,26349442,17219,87.4,57.1,1485.0
+maharashtra,solapur district,2688732,234327059,178647,87.2,66.4,1280.0
+telangana,nirmal district,404313,35201110,23502,87.1,58.1,1684.0
+karnataka,ballari district,945047,82212932,66038,87.0,69.9,1180.0
+telangana,narayanpet district,248512,21594457,12071,86.9,48.6,1604.0
+andhra pradesh,palnadu district,1145432,99141013,76084,86.6,66.4,1553.0
+andhra pradesh,ysr kadapa district,1407575,121279922,79060,86.2,56.2,1628.0
+andhra pradesh,kurnool district,1445853,124254577,96636,85.9,66.8,1347.0
+karnataka,kolar district,1166361,100222275,61066,85.9,52.4,1386.0
+andhra pradesh,srikakulam district,1148380,98256003,59392,85.6,51.7,1509.0
+andhra pradesh,chittoor district,1126392,96240891,50979,85.4,45.3,1460.0
+maharashtra,chhatrapati sambhaji nagar district,3285314,277774357,222633,84.6,67.8,1058.0
+karnataka,kalaburagi district,1442143,121286983,84694,84.1,58.7,1247.0
+telangana,jagtial district,584597,48888034,36289,83.6,62.1,1761.0
+karnataka,chikkaballapur district,804875,67210396,48503,83.5,60.3,1544.0
+maharashtra,dharashiv district,866411,72380736,56399,83.5,65.1,1220.0
+madhya pradesh,indore district,4118995,339895092,358011,82.5,86.9,980.0
+karnataka,dharwad district,1462055,118951459,110356,81.4,75.5,1079.0
+maharashtra,latur district,1416945,114882213,90127,81.1,63.6,1183.0
+karnataka,mandya district,975953,78895989,41069,80.8,42.1,1545.0
+maharashtra,pune district,14753740,1190115541,1261805,80.7,85.5,882.0
+andhra pradesh,sri sathyasai district,1068571,85330321,55634,79.9,52.1,1433.0
+rajasthan,jaipur district,7999367,637259898,813696,79.7,101.7,1131.0
+karnataka,hassan district,1110612,88081824,42357,79.3,38.1,1443.0
+karnataka,vijayanagara district,697767,55201325,47237,79.1,67.7,1216.0
+karnataka,raichur district,987196,77801824,46754,78.8,47.4,1286.0
+madhya pradesh,bhopal district,2930803,230703048,361968,78.7,123.5,951.0
+maharashtra,beed district,1411573,110400541,87769,78.2,62.2,1395.0
+telangana,adilabad district,374803,29166193,24947,77.8,66.6,1281.0
+uttar pradesh,gautambuddha nagar district,5609621,431415785,426703,76.9,76.1,753.0
+haryana,gurugram district,5282943,405201286,357594,76.7,67.7,820.0
+karnataka,koppal district,722414,55378515,37767,76.7,52.3,1214.0
+odisha,puri district,968686,74152838,102056,76.5,105.4,1044.0
+odisha,jajpur district,1078499,82165322,61458,76.2,57.0,1036.0
+karnataka,tumakuru district,1670563,127067740,96101,76.1,57.5,1341.0
+karnataka,mysuru district,2414508,183550671,133130,76.0,55.1,1278.0
+odisha,cuttack district,1711793,129280852,138121,75.5,80.7,1074.0
+odisha,jagatsinghpur district,606478,45300125,38761,74.7,63.9,1026.0
+karnataka,vijayapura district,1324162,98492191,80472,74.4,60.8,1321.0
+maharashtra,nanded district,1764475,131031097,100568,74.3,57.0,1325.0
+karnataka,davanagere district,1037636,76675463,90750,73.9,87.5,1241.0
+maharashtra,jalna district,1090655,80240072,70630,73.6,64.8,1283.0
+telangana,kumuram bheem asifabad district,250254,18359220,14621,73.4,58.4,1185.0
+karnataka,yadgiri district,499174,36611216,25671,73.3,51.4,1438.0
+maharashtra,ahilyanagar district,3056663,222959472,192869,72.9,63.1,1295.0
+maharashtra,parbhani district,907133,65772822,50831,72.5,56.0,1263.0
+karnataka,chitradurga district,857762,61694303,42818,71.9,49.9,1343.0
+andhra pradesh,parvathipuram manyam district,362705,25863941,15686,71.3,43.2,1497.0
+delhi,new delhi district,1776422,126479485,127391,71.2,71.7,885.0
+rajasthan,bhilwara district,1480816,104898430,129896,70.8,87.7,1280.0
+karnataka,shivamogga district,1109281,78141129,76982,70.4,69.4,1267.0
+karnataka,bagalkote district,1014150,70893420,55759,69.9,55.0,1212.0
+odisha,jharsuguda district,431562,30025889,15500,69.6,35.9,998.0
+madhya pradesh,agar malwa district,293677,20389453,19358,69.4,65.9,1179.0
+maharashtra,nashik district,4715835,326726159,331234,69.3,70.2,1161.0
+karnataka,chikkamagaluru district,675439,46620100,29068,69.0,43.0,1388.0
+odisha,bhadrak district,794945,54814334,65079,69.0,81.9,1136.0
+odisha,kendrapara district,628446,43209456,36601,68.8,58.2,1112.0
+jharkhand,koderma district,370924,25431588,22537,68.6,60.8,1314.0
+odisha,angul district,760844,51937142,41773,68.3,54.9,1139.0
+rajasthan,ajmer district,1477232,100906421,119199,68.3,80.7,1331.0
+haryana,palwal district,797664,54368476,81486,68.2,102.2,1208.0
+madhya pradesh,dewas district,865214,58935467,66296,68.1,76.6,1167.0
+madhya pradesh,ujjain district,1368511,92566816,122336,67.6,89.4,1131.0
+maharashtra,buldhana district,1350212,91306788,69454,67.6,51.4,1202.0
+odisha,dhenkanal district,574091,38144409,44485,66.4,77.5,1086.0
+odisha,sambalpur district,679444,44790183,28902,65.9,42.5,996.0
+karnataka,gadag district,513867,33600829,29558,65.4,57.5,1187.0
+karnataka,belagavi district,2597822,169229045,153187,65.1,59.0,1216.0
+madhya pradesh,sehore district,747638,48550426,69616,64.9,93.1,1195.0
+maharashtra,hingoli district,538841,34948727,31541,64.9,58.5,1283.0
+rajasthan,dausa district,876805,56636243,72655,64.6,82.9,1171.0
+odisha,kendujhar district,863006,55567166,39852,64.4,46.2,1137.0
+haryana,nuh district,858037,55133036,77842,64.3,90.7,1200.0
+madhya pradesh,singrauli district,598461,38472012,41104,64.3,68.7,1040.0
+odisha,rayagada district,456600,29274719,24311,64.1,53.2,1145.0
+rajasthan,kotputli behror district,851871,54444801,57663,63.9,67.7,1345.0
+delhi,south east district,2525338,161160262,284668,63.8,112.7,863.0
+rajasthan,kota district,1566004,99833807,175128,63.8,111.8,1113.0
+jharkhand,palamu district,872834,55340012,53967,63.4,61.8,1176.0
+jharkhand,garhwa district,555347,35094203,31016,63.2,55.8,1204.0
+madhya pradesh,dhar district,1178501,74462317,69467,63.2,58.9,1079.0
+karnataka,haveri district,737809,46557286,38854,63.1,52.7,1244.0
+rajasthan,khairthal tijara district,940761,59369090,70316,63.1,74.7,1018.0
+rajasthan,jaisalmer district,493547,31064252,23267,62.9,47.1,1272.0
+jharkhand,hazaribag district,1040823,65325880,81718,62.8,78.5,1242.0
+rajasthan,beawar district,618043,38786360,50260,62.8,81.3,1326.0
+maharashtra,washim district,585804,36665387,34770,62.6,59.4,1206.0
+karnataka,chamarajanagar district,429301,26827517,17204,62.5,40.1,1420.0
+madhya pradesh,shajapur district,474022,29610293,38004,62.5,80.2,1251.0
+chhattisgarh,raipur district,2143139,133634746,139909,62.4,65.3,1046.0
+rajasthan,karauli district,605403,37506937,39758,62.0,65.7,1087.0
+madhya pradesh,rajgarh district,752285,46547793,66612,61.9,88.5,1247.0
+jharkhand,ramgarh district,535722,32965214,40906,61.5,76.4,1077.0
+odisha,ganjam district,1688000,103810532,115340,61.5,68.3,1334.0
+odisha,nayagarh district,413390,25259486,39438,61.1,95.4,1163.0
+bihar,purbi champaran district,2309199,140716258,165992,60.9,71.9,1100.0
+delhi,central district,2295062,138308624,209427,60.3,91.3,1079.0
+haryana,faridabad district,2760927,166618683,296168,60.3,107.3,977.0
+haryana,rewari district,959217,57775474,53143,60.2,55.4,1169.0
+madhya pradesh,gwalior district,1674749,100545755,131713,60.0,78.6,1207.0
+bihar,pashchim champaran district,1743350,104473063,132309,59.9,75.9,1057.0
+odisha,koraput district,613733,36717088,26166,59.8,42.6,1163.0
+jharkhand,ranchi district,2376732,141573465,176099,59.6,74.1,1051.0
+jharkhand,bokaro district,1045849,62276101,92190,59.5,88.1,965.0
+maharashtra,jalgaon district,2154509,127870732,140145,59.4,65.0,1283.0
+rajasthan,tonk district,687950,40709985,69324,59.2,100.8,1236.0
+madhya pradesh,raisen district,724170,42673046,42754,58.9,59.0,1142.0
+delhi,south district,1483295,87191033,132581,58.8,89.4,842.0
+maharashtra,dhule district,1026399,60349231,63028,58.8,61.4,1255.0
+rajasthan,barmer district,868007,50998855,43058,58.8,49.6,1345.0
+rajasthan,dholpur district,523190,30668717,39344,58.6,75.2,1073.0
+rajasthan,jodhpur district,2341306,136439834,170176,58.3,72.7,1294.0
+chhattisgarh,korba district,681484,39693602,33599,58.2,49.3,934.0
+odisha,balasore district,1217410,70787250,98662,58.1,81.0,1236.0
+chhattisgarh,bilaspur district,1094847,63534413,58872,58.0,53.8,946.0
+rajasthan,alwar district,1286894,74083150,100122,57.6,77.8,1145.0
+maharashtra,akola district,987281,56701182,70953,57.4,71.9,1188.0
+delhi,east district,1410783,80858374,139256,57.3,98.7,907.0
+madhya pradesh,khandwa district,590699,33814350,43518,57.2,73.7,1086.0
+assam,barpeta district,677950,38736056,67370,57.1,99.4,1034.0
+bihar,purnea district,1472576,83663761,101115,56.8,68.7,1176.0
+maharashtra,nagpur district,4040766,229616391,307247,56.8,76.0,1161.0
+bihar,katihar district,1315773,74442821,86038,56.6,65.4,1171.0
+rajasthan,chittorgarh district,881264,49570984,55529,56.2,63.0,1256.0
+rajasthan,bharatpur district,709955,39793494,47304,56.1,66.6,1092.0
+maharashtra,satara district,1737945,97105417,89747,55.9,51.6,1096.0
+bihar,aurangabad district,995686,55540259,60210,55.8,60.5,1166.0
+chhattisgarh,durg district,1150479,64109778,103081,55.7,89.6,1021.0
+chhattisgarh,raigarh district,721223,40139436,29404,55.7,40.8,968.0
+maharashtra,amravati district,1621144,90020867,101787,55.5,62.8,1223.0
+jharkhand,chatra district,388651,21435991,31476,55.2,81.0,1324.0
+madhya pradesh,harda district,276204,15245765,17586,55.2,63.7,1270.0
+assam,bongaigaon district,364372,20085153,36579,55.1,100.4,983.0
+bihar,araria district,1128215,62008432,92877,55.0,82.3,1151.0
+odisha,kalahandi district,681984,37492566,30471,55.0,44.7,1051.0
+rajasthan,sikar district,1831450,100642547,140979,55.0,77.0,1472.0
+bihar,supaul district,936778,51328514,81960,54.8,87.5,1096.0
+odisha,sundargarh district,1180407,64723458,59341,54.8,50.3,1102.0
+madhya pradesh,rewa district,841494,46023993,67932,54.7,80.7,1169.0
+odisha,malkangiri district,244763,13391611,7993,54.7,32.7,1118.0
+madhya pradesh,narmadapuram district,723310,39505428,41661,54.6,57.6,1157.0
+andhra pradesh,alluri sitharama raju district,411684,22403546,11247,54.4,27.3,1280.0
+delhi,south west district,2807436,152799651,254998,54.4,90.8,988.0
+west bengal,malda district,1861790,100728885,181875,54.1,97.7,1365.0
+bihar,patna district,4677723,252700915,268226,54.0,57.3,1076.0
+rajasthan,balotra district,558892,30160090,24199,54.0,43.3,1392.0
+odisha,gajapati district,230741,12441460,12440,53.9,53.9,1278.0
+madhya pradesh,khargone district,795653,42775875,64277,53.8,80.8,1283.0
+bihar,kishanganj district,687898,36907622,45364,53.7,65.9,1243.0
+rajasthan,bundi district,528271,28350508,42623,53.7,80.7,1219.0
+bihar,muzaffarpur district,2261303,120957767,152204,53.5,67.3,1192.0
+madhya pradesh,burhanpur district,343006,18353878,49665,53.5,144.8,1153.0
+madhya pradesh,sidhi district,443502,23714024,30053,53.5,67.8,1161.0
+maharashtra,yavatmal district,1276959,68274135,52956,53.5,41.5,1185.0
+madhya pradesh,ratlam district,852323,45486079,46531,53.4,54.6,1224.0
+uttar pradesh,mathura district,1700916,90335602,175515,53.1,103.2,1084.0
+odisha,subarnapur district,243572,12902456,12250,53.0,50.3,1215.0
+bihar,saharsa district,822035,43201041,54683,52.6,66.5,1083.0
+karnataka,uttara kannada district,757002,39791180,34215,52.6,45.2,1237.0
+madhya pradesh,mandsaur district,784250,41268884,54577,52.6,69.6,1237.0
+assam,south salmara mankachar district,164915,8651577,12553,52.5,76.1,996.0
+bihar,gopalganj district,1098808,57730004,72440,52.5,65.9,1178.0
+assam,darrang district,412727,21610773,35618,52.4,86.3,1055.0
+bihar,madhepura district,824589,43205068,77228,52.4,93.7,1156.0
+jharkhand,sahibganj district,417642,21869671,18727,52.4,44.8,1220.0
+bihar,rohtas district,1210717,63055764,88618,52.1,73.2,1325.0
+arunachal pradesh,itanagar capital complex district,229815,11925439,13506,51.9,58.8,1089.0
+bihar,siwan district,1376348,71421194,87346,51.9,63.5,1228.0
+jharkhand,giridih district,1062615,55023454,65886,51.8,62.0,1175.0
+odisha,balangir district,708006,36690739,33078,51.8,46.7,1066.0
+bihar,khagaria district,646160,33366032,59965,51.6,92.8,1221.0
+karnataka,kodagu district,353712,18266557,14501,51.6,41.0,1438.0
+bihar,saran district,1566925,80750696,130370,51.5,83.2,1146.0
+madhya pradesh,morena district,883974,45334539,59538,51.3,67.4,1272.0
+rajasthan,bikaner district,1507919,77321307,90391,51.3,59.9,1376.0
+maharashtra,chandrapur district,1141464,58320968,63509,51.1,55.6,1179.0
+jharkhand,dhanbad district,1460404,74512731,160903,51.0,110.2,1054.0
+arunachal pradesh,papum pare district,72310,3663025,5026,50.7,69.5,1075.0
+uttar pradesh,ghaziabad district,4061254,205969183,379016,50.7,93.3,1008.0
+bihar,gaya district,1850142,93692841,104785,50.6,56.6,1238.0
+dadra & nagar haveli & daman & diu,dadra and nagar haveli district,423162,21410200,17263,50.6,40.8,798.0
+madhya pradesh,guna district,711351,35844855,47884,50.4,67.3,1159.0
+rajasthan,sri ganganagar district,1227393,61808283,96171,50.4,78.4,1353.0
+maharashtra,raigad district,2644996,132572113,145090,50.1,54.9,933.0
+bihar,arwal district,237075,11862510,14113,50.0,59.5,1106.0
+madhya pradesh,vidisha district,737979,36892479,80267,50.0,108.8,1357.0
+delhi,north district,2039167,101611929,145465,49.8,71.3,1081.0
+rajasthan,jhalawar district,664353,33007685,42068,49.7,63.3,1190.0
+bihar,begusarai district,1240451,61486211,95483,49.6,77.0,1137.0
+madhya pradesh,neemuch district,487255,24175498,33488,49.6,68.7,1233.0
+odisha,bargarh district,599124,29700496,33221,49.6,55.4,1197.0
+rajasthan,udaipur district,1439898,71477414,99601,49.6,69.2,1096.0
+jharkhand,latehar district,298677,14792792,11936,49.5,40.0,1248.0
+madhya pradesh,shahdol district,493527,24446442,42096,49.5,85.3,1067.0
+bihar,jamui district,673203,33273643,41271,49.4,61.3,1120.0
+rajasthan,sawai madhopur district,691207,34152477,50402,49.4,72.9,1171.0
+assam,goalpara district,482678,23737889,37138,49.2,76.9,1028.0
+madhya pradesh,satna district,704595,34648269,61414,49.2,87.2,1155.0
+rajasthan,deedwana kuchaman district,871497,42871872,60541,49.2,69.5,1535.0
+rajasthan,phalodi district,413508,20362210,19930,49.2,48.2,1462.0
+bihar,jehanabad district,416235,20442084,17868,49.1,42.9,1124.0
+uttar pradesh,hapur district,755084,37094680,55877,49.1,74.0,1103.0
+arunachal pradesh,west siang district,42005,2057515,860,49.0,20.5,1200.0
+bihar,sheohar district,217997,10658823,15916,48.9,73.0,1175.0
+madhya pradesh,seoni district,609996,29764135,38119,48.8,62.5,1184.0
+maharashtra,sangli district,1580036,77033307,86833,48.8,55.0,1235.0
+madhya pradesh,mauganj district,195796,9536330,12229,48.7,62.5,1261.0
+madhya pradesh,ashoknagar district,382035,18555375,25838,48.6,67.6,1187.0
+chhattisgarh,bastar district,372527,17986213,15085,48.3,40.5,1111.0
+madhya pradesh,chhindwara district,882155,42486945,56824,48.2,64.4,1146.0
+bihar,darbhanga district,1583605,76137061,108685,48.1,68.6,1210.0
+chhattisgarh,surguja district,481559,23181503,23910,48.1,49.7,1054.0
+delhi,west district,2163729,103992037,177715,48.1,82.1,1105.0
+haryana,mahendragarh district,549446,26422660,33554,48.1,61.1,1519.0
+madhya pradesh,balaghat district,737407,35363210,49478,48.0,67.1,1135.0
+chhattisgarh,janjgir champa district,476214,22795210,25851,47.9,54.3,1000.0
+haryana,jhajjar district,876045,41818978,37642,47.7,43.0,1278.0
+madhya pradesh,jabalpur district,1602539,76408578,146620,47.7,91.5,1124.0
+odisha,nuapada district,257425,12281276,8138,47.7,31.6,1065.0
+assam,dhubri district,704855,33561698,63485,47.6,90.1,959.0
+bihar,madhubani district,1548198,73614601,112605,47.5,72.7,1218.0
+assam,kamrup metropolitan district,1676886,79523271,132725,47.4,79.1,856.0
+bihar,vaishali district,1456708,69068186,105317,47.4,72.3,1220.0
+jharkhand,east singhbhum district,1272271,60278892,101073,47.4,79.4,974.0
+madhya pradesh,maihar district,301225,14231574,17377,47.2,57.7,1126.0
+tamil nadu,krishnagiri district,1558111,73564258,75543,47.2,48.5,1330.0
+odisha,boudh district,168203,7914517,9629,47.1,57.2,1198.0
+bihar,bhagalpur district,1447411,68065095,80820,47.0,55.8,1117.0
+bihar,samastipur district,1693494,79535856,133736,47.0,79.0,1197.0
+chhattisgarh,dantewada district,123252,5794933,2342,47.0,19.0,1207.0
+gujarat,vav tharad district,782868,36805128,39215,47.0,50.1,1333.0
+uttar pradesh,amroha district,769082,36081613,54541,46.9,70.9,1146.0
+madhya pradesh,anuppur district,325563,15223710,25153,46.8,77.3,972.0
+chhattisgarh,bijapur district,106685,4987418,1244,46.7,11.7,1336.0
+uttar pradesh,bagpat district,591733,27626144,43038,46.7,72.7,1170.0
+west bengal,uttar dinajpur district,1268350,59201120,113217,46.7,89.3,1266.0
+delhi,north east district,1227659,57168307,120485,46.6,98.1,1196.0
+madhya pradesh,barwani district,514005,23886109,35210,46.5,68.5,1186.0
+rajasthan,baran district,543301,25227700,34865,46.4,64.2,1240.0
+rajasthan,jhunjhunu district,1242437,57588972,97004,46.4,78.1,1553.0
+bihar,bhojpur district,1035757,47979063,70550,46.3,68.1,1283.0
+delhi,north west district,2150430,99528310,178617,46.3,83.1,1122.0
+uttar pradesh,shamli district,602945,27887933,68105,46.3,113.0,1183.0
+dadra & nagar haveli & daman & diu,daman district,237457,10968314,9624,46.2,40.5,779.0
+maharashtra,nandurbar district,656167,30301467,32535,46.2,49.6,1211.0
+jharkhand,seraikela kharsawan district,517394,23751521,27519,45.9,53.2,884.0
+bihar,lakhisarai district,383951,17572787,27074,45.8,70.5,1213.0
+delhi,shahdara district,1370880,62806814,123302,45.8,89.9,1175.0
+west bengal,purba medinipur district,2152939,98690655,166868,45.8,77.5,1399.0
+rajasthan,rajsamand district,575113,26297004,35187,45.7,61.2,1272.0
+jharkhand,lohardaga district,192845,8784162,6972,45.6,36.2,1171.0
+arunachal pradesh,west kameng district,67363,3063367,2834,45.5,42.1,1311.0
+madhya pradesh,shivpuri district,811527,36939876,53080,45.5,65.4,1159.0
+rajasthan,pali district,828897,37686843,45541,45.5,54.9,1272.0
+madhya pradesh,bhind district,653769,29660171,46747,45.4,71.5,1274.0
+maharashtra,wardha district,665734,30257256,31148,45.4,46.8,1227.0
+odisha,nabarangpur district,430505,19506626,17948,45.3,41.7,1222.0
+madhya pradesh,sagar district,1149850,51924904,85489,45.2,74.3,1238.0
+rajasthan,nagaur district,881192,39799872,44999,45.2,51.1,1519.0
+rajasthan,sirohi district,498425,22510550,27214,45.2,54.6,1222.0
+bihar,sitamarhi district,1218209,54917497,89815,45.1,73.7,1200.0
+jharkhand,godda district,458276,20667004,25126,45.1,54.8,1082.0
+uttar pradesh,bulandshahr district,1498671,67639035,128820,45.1,86.0,1098.0
+west bengal,kolkata district,3957483,178593980,313504,45.1,79.2,1185.0
+chhattisgarh,balodabazar bhatapara district,448499,20168991,24256,45.0,54.1,1045.0
+uttar pradesh,kushinagar district,1386079,62347702,98458,45.0,71.0,1094.0
+madhya pradesh,narsinghpur district,559578,25072717,46725,44.8,83.5,1192.0
+goa,north goa district,722076,32267206,20847,44.7,28.9,1368.0
+chhattisgarh,mungeli district,248400,11076519,14393,44.6,57.9,1003.0
+odisha,mayurbhanj district,897828,40074486,46357,44.6,51.6,1132.0
+west bengal,north twenty four parganas district,6080783,270929160,526367,44.6,86.6,1123.0
+west bengal,paschim bardhaman district,1737895,77353246,127430,44.5,73.3,1039.0
+karnataka,udupi district,782137,34716559,38146,44.4,48.8,1293.0
+madhya pradesh,pandhurna district,168840,7501763,6875,44.4,40.7,1220.0
+uttar pradesh,aligarh district,1827241,80702139,154365,44.2,84.5,1107.0
+uttar pradesh,muzaffarnagar district,1259729,55654222,134717,44.2,106.9,1172.0
+jammu & kashmir,shopian district,136065,5995932,11766,44.1,86.5,863.0
+madhya pradesh,sheopur district,266068,11694412,23293,44.0,87.5,1205.0
+bihar,buxar district,656368,28799633,43975,43.9,67.0,1309.0
+madhya pradesh,betul district,729487,31998217,52533,43.9,72.0,1190.0
+uttar pradesh,saharanpur district,1662653,72908360,178814,43.9,107.5,1215.0
+west bengal,murshidabad district,3131835,137557474,369999,43.9,118.1,1476.0
+jharkhand,pakur district,259537,11376615,10677,43.8,41.1,1446.0
+uttar pradesh,jhansi district,1127343,49353339,102254,43.8,90.7,1196.0
+arunachal pradesh,east kameng district,24284,1061181,1481,43.7,61.0,1106.0
+assam,hojai district,442831,19368667,27188,43.7,61.4,955.0
+bihar,kaimur district,585303,25569530,46633,43.7,79.7,1321.0
+chhattisgarh,sakti district,312402,13642403,20186,43.7,64.6,1011.0
+maharashtra,gadchiroli district,463308,20235867,17139,43.7,37.0,1314.0
+uttar pradesh,siddharthnagar district,830190,36272308,52702,43.7,63.5,1159.0
+arunachal pradesh,lower siang district,12229,533357,497,43.6,40.6,1253.0
+arunachal pradesh,lohit district,34707,1510531,524,43.5,15.1,1075.0
+chhattisgarh,sarangarh bilaigarh district,257463,11209318,14460,43.5,56.2,1130.0
+west bengal,paschim medinipur district,1918896,83507774,153294,43.5,79.9,1213.0
+madhya pradesh,katni district,595770,25861912,35500,43.4,59.6,1147.0
+bihar,nawada district,836648,36238773,43103,43.3,51.5,1304.0
+gujarat,bharuch district,1267931,54956816,55060,43.3,43.4,893.0
+madhya pradesh,panna district,362752,15717249,22025,43.3,60.7,1196.0
+rajasthan,jalore district,840748,36420288,39619,43.3,47.1,1556.0
+madhya pradesh,jhabua district,407346,17596269,18613,43.2,45.7,1155.0
+uttar pradesh,ballia district,1234052,53284416,114621,43.2,92.9,1138.0
+uttar pradesh,deoria district,1276888,55210840,97264,43.2,76.2,1106.0
+uttar pradesh,meerut district,1999429,86313793,198558,43.2,99.3,1218.0
+rajasthan,hanumangarh district,945946,40701272,74116,43.0,78.4,1545.0
+uttar pradesh,lucknow district,4467992,192163913,425169,43.0,95.2,979.0
+madhya pradesh,datia district,354340,15206962,26932,42.9,76.0,1244.0
+uttar pradesh,moradabad district,1476607,63326492,114124,42.9,77.3,1197.0
+uttar pradesh,rampur district,865393,37111982,58423,42.9,67.5,1237.0
+uttar pradesh,sonbhadra district,746953,32043554,59854,42.9,80.1,1106.0
+uttarakhand,haridwar district,1508985,64545515,139663,42.8,92.6,983.0
+chhattisgarh,mahasamund district,450856,19256541,31122,42.7,69.0,1181.0
+madhya pradesh,chhatarpur district,836724,35713356,60450,42.7,72.2,1154.0
+gujarat,banaskantha district,918807,39156532,54340,42.6,59.1,1387.0
+haryana,sonipat district,1337266,56947232,70723,42.6,52.9,1193.0
+chhattisgarh,kabirdham district,325935,13834070,19882,42.4,61.0,996.0
+arunachal pradesh,lower subansiri district,24643,1043407,866,42.3,35.1,1141.0
+chhattisgarh,narayanpur district,60578,2559795,864,42.3,14.3,1309.0
+assam,morigaon district,432252,18226572,32830,42.2,76.0,998.0
+madhya pradesh,umaria district,247075,10435685,13119,42.2,53.1,1047.0
+maharashtra,bhandara district,539714,22715086,31943,42.1,59.2,1470.0
+chhattisgarh,manendragarh chirmiri bharatpur district,155037,6513328,7232,42.0,46.6,1029.0
+uttar pradesh,etawah district,692265,29095635,47913,42.0,69.2,1086.0
+bihar,munger district,553098,23152893,47318,41.9,85.6,1132.0
+chhattisgarh,korea district,125942,5270734,7716,41.9,61.3,992.0
+karnataka,dakshina kannada district,1572822,65808357,54458,41.8,34.6,1222.0
+rajasthan,churu district,1087096,45422509,70025,41.8,64.4,1586.0
+chhattisgarh,rajnandgaon district,419103,17458223,18948,41.7,45.2,1135.0
+assam,hailakandi district,247578,10306306,16305,41.6,65.9,913.0
+chhattisgarh,sukma district,83424,3458525,1152,41.5,13.8,1398.0
+maharashtra,thane district,8346491,346477174,741350,41.5,88.8,922.0
+odisha,deogarh district,108489,4503723,3354,41.5,30.9,1283.0
+gujarat,valsad district,1252554,51903972,52222,41.4,41.7,940.0
+maharashtra,gondia district,589555,24254677,34154,41.1,57.9,1350.0
+uttar pradesh,agra district,2675497,109610679,224888,41.0,84.1,1157.0
+uttar pradesh,hathras district,650495,26681326,53134,41.0,81.7,1100.0
+maharashtra,mumbai district,2820660,115367379,193713,40.9,68.7,946.0
+uttarakhand,rudraprayag district,100742,4124958,2696,40.9,26.8,1461.0
+arunachal pradesh,lepa rada district,12193,498012,176,40.8,14.4,1189.0
+tamil nadu,dharmapuri district,750112,30627477,51384,40.8,68.5,1568.0
+odisha,kandhamal district,286456,11650060,7193,40.7,25.1,1162.0
+west bengal,cooch behar district,1223787,49830577,110248,40.7,90.1,1074.0
+chhattisgarh,bemetara district,293299,11905849,17266,40.6,58.9,1085.0
+assam,bajali district,116152,4707327,10703,40.5,92.1,997.0
+west bengal,nadia district,2331051,94303859,198519,40.5,85.2,1363.0
+rajasthan,pratapgarh district,366670,14774001,15573,40.3,42.5,1135.0
+uttar pradesh,etah district,678168,27332676,49184,40.3,72.5,1021.0
+gujarat,gandhinagar district,1507310,60548590,81825,40.2,54.3,1104.0
+gujarat,kachchh district,1507864,60579670,60486,40.2,40.1,1000.0
+arunachal pradesh,keyi panyor district,9819,393278,424,40.1,43.2,1052.0
+madhya pradesh,niwari district,167319,6682206,10039,39.9,60.0,1106.0
+uttar pradesh,basti district,920943,36750004,73966,39.9,80.3,1133.0
+assam,kamrup district,710607,28257339,53444,39.8,75.2,931.0
+bihar,banka district,653038,26011792,38472,39.8,58.9,1122.0
+maharashtra,kolhapur district,2174003,86408217,121947,39.7,56.1,1128.0
+uttar pradesh,mainpuri district,796709,31602854,60774,39.7,76.3,1018.0
+uttarakhand,dehradun district,1944680,77212838,155822,39.7,80.1,988.0
+uttar pradesh,ghazipur district,1344805,53218822,115729,39.6,86.1,1160.0
+assam,chirang district,216130,8505823,13494,39.4,62.4,1038.0
+madhya pradesh,tikamgarh district,418578,16488594,29026,39.4,69.3,1069.0
+sikkim,gangtok district,178569,7028410,5664,39.4,31.7,1287.0
+arunachal pradesh,east siang district,71075,2793491,3200,39.3,45.0,1079.0
+arunachal pradesh,bichom district,4110,160947,43,39.2,10.5,1313.0
+uttar pradesh,sambhal district,819195,32083316,94285,39.2,115.1,1178.0
+chhattisgarh,balrampur ramanujganj district,286133,11189861,9749,39.1,34.1,1237.0
+west bengal,birbhum district,1399953,54763936,125234,39.1,89.5,1318.0
+jammu & kashmir,kupwara district,314641,12264398,24191,39.0,76.9,969.0
+arunachal pradesh,lower dibang valley district,32326,1257423,710,38.9,22.0,1122.0
+gujarat,ahmedabad district,6724772,260700084,515128,38.8,76.6,1131.0
+sikkim,mangan district,32027,1242933,333,38.8,10.4,1537.0
+uttar pradesh,prayagraj district,2902034,112729000,298785,38.8,103.0,1015.0
+uttar pradesh,mahoba district,346353,13412438,31845,38.7,91.9,1034.0
+chhattisgarh,surajpur district,327627,12643548,13390,38.6,40.9,1048.0
+uttar pradesh,ayodhya district,1018415,39302916,94422,38.6,92.7,1122.0
+assam,kokrajhar district,370984,14292150,27744,38.5,74.8,1011.0
+uttar pradesh,auraiya district,544431,20938024,42872,38.5,78.7,1079.0
+uttarakhand,tehri garhwal district,243271,9376523,13438,38.5,55.2,1085.0
+arunachal pradesh,kamle district,6858,262891,193,38.3,28.1,1057.0
+arunachal pradesh,pakke kessang district,4655,178329,139,38.3,29.9,1049.0
+bihar,nalanda district,1207639,46158183,70735,38.2,58.6,1287.0
+bihar,sheikhpura district,244878,9345600,11592,38.2,47.3,1330.0
+ladakh,leh ladakh district,177949,6775664,1629,38.1,9.2,1844.0
+uttar pradesh,jalaun district,682487,25987938,44367,38.1,65.0,1148.0
+uttar pradesh,lalitpur district,501972,19053993,47339,38.0,94.3,1040.0
+chhattisgarh,gaurela pendra marwahi district,148923,5647656,7494,37.9,50.3,1003.0
+uttar pradesh,bareilly district,2011083,76189965,191716,37.9,95.3,1177.0
+west bengal,darjeeling district,1141432,43173444,73322,37.8,64.2,1193.0
+andaman & nicobar islands,south andaman district,180817,6820738,5317,37.7,29.4,1310.0
+haryana,rohtak district,785846,29566479,43357,37.6,55.2,1478.0
+uttar pradesh,mau district,846977,31881391,78331,37.6,92.5,1065.0
+uttar pradesh,azamgarh district,1681167,63064954,147768,37.5,87.9,1125.0
+uttar pradesh,gorakhpur district,2244276,84223276,168785,37.5,75.2,1134.0
+west bengal,howrah district,2608014,97633524,179662,37.4,68.9,1240.0
+arunachal pradesh,tawang district,37510,1396678,237,37.2,6.3,1829.0
+arunachal pradesh,namsai district,53954,1998330,668,37.0,12.4,1087.0
+maharashtra,mumbai suburban district,7625449,281998060,749720,37.0,98.3,884.0
+uttar pradesh,amethi district,553416,20498800,41736,37.0,75.4,1143.0
+arunachal pradesh,longding district,18662,686117,198,36.8,10.6,1066.0
+uttar pradesh,kasganj district,540645,19870998,39844,36.8,73.7,1037.0
+goa,south goa district,625864,22941591,15557,36.7,24.9,1087.0
+assam,sonitpur district,528844,19332246,37276,36.6,70.5,900.0
+uttar pradesh,chandauli district,804893,29423937,72690,36.6,90.3,1205.0
+arunachal pradesh,kra daadi district,7447,272091,207,36.5,27.8,1272.0
+himachal pradesh,lahaul and spiti district,23388,854152,327,36.5,14.0,1598.0
+uttar pradesh,varanasi district,2544739,92690252,202209,36.4,79.5,1149.0
+assam,cachar district,716688,26018006,43480,36.3,60.7,961.0
+haryana,charkhi dadri district,261445,9464743,12773,36.2,48.9,1908.0
+madhya pradesh,damoh district,495257,17914198,36577,36.2,73.9,1310.0
+west bengal,alipurduar district,621707,22512831,56482,36.2,90.8,1084.0
+chhattisgarh,jashpur district,345466,12455048,9677,36.1,28.0,1179.0
+west bengal,hooghly district,2429162,87725602,185273,36.1,76.3,1260.0
+west bengal,jalpaiguri district,849446,30674417,49094,36.1,57.8,1072.0
+assam,nagaon district,813711,29307996,55055,36.0,67.7,1009.0
+uttar pradesh,bijnor district,1286473,46340376,121720,36.0,94.6,1196.0
+meghalaya,west jaintia hills district,43171,1549797,463,35.9,10.7,833.0
+rajasthan,banswara district,639092,22967500,21879,35.9,34.2,1093.0
+arunachal pradesh,anjaw district,12206,436802,16,35.8,1.3,1407.0
+jammu & kashmir,kulgam district,180724,6478738,15825,35.8,87.6,892.0
+maharashtra,palghar district,2729334,97634788,236136,35.8,86.5,937.0
+arunachal pradesh,upper subansiri district,31805,1134397,1035,35.7,32.5,1419.0
+gujarat,sabarkantha district,637937,22687281,31827,35.6,49.9,1252.0
+meghalaya,ri bhoi district,77873,2774685,2935,35.6,37.7,1142.0
+sikkim,pakyong district,61769,2197973,1066,35.6,17.3,1033.0
+uttar pradesh,firozabad district,1184617,42129937,121786,35.6,102.8,1139.0
+west bengal,purulia district,998795,35421506,86277,35.5,86.4,924.0
+arunachal pradesh,tirap district,25740,908775,489,35.3,19.0,1115.0
+assam,sribhumi district,431489,15234907,21520,35.3,49.9,1074.0
+west bengal,south twenty four parganas district,3352814,118227823,238625,35.3,71.2,1310.0
+uttar pradesh,kanpur dehat district,582286,20478974,41453,35.2,71.2,1199.0
+west bengal,purba bardhaman district,1848710,65138355,171963,35.2,93.0,1335.0
+jharkhand,deoghar district,942391,33053789,47866,35.1,50.8,1038.0
+uttar pradesh,farrukhabad district,715245,25126268,61597,35.1,86.1,1032.0
+uttar pradesh,pratapgarh district,1007843,35330680,93707,35.1,93.0,1078.0
+assam,dima hasao district,102858,3604607,4743,35.0,46.1,879.0
+chhattisgarh,gariaband district,211270,7393434,7918,35.0,37.5,1082.0
+chhattisgarh,north bastar kanker district,325355,11399887,14238,35.0,43.8,1186.0
+jammu & kashmir,srinagar district,628879,21983296,44070,35.0,70.1,1146.0
+madhya pradesh,mandla district,443113,15497639,19715,35.0,44.5,1132.0
+chhattisgarh,balod district,286794,10017813,14096,34.9,49.2,1112.0
+gujarat,aravalli district,404397,14115677,21620,34.9,53.5,1188.0
+gujarat,patan district,655094,22885128,43133,34.9,65.8,1338.0
+uttarakhand,udham singh nagar district,1249806,43576307,87601,34.9,70.1,1023.0
+haryana,bhiwani district,635555,22148120,39027,34.8,61.4,1743.0
+jammu & kashmir,samba district,226948,7902714,13915,34.8,61.3,1132.0
+uttar pradesh,ambedkar nagar district,820870,28593166,65372,34.8,79.6,1107.0
+uttar pradesh,sant kabir nagar district,586802,20392963,46027,34.8,78.4,1182.0
+uttar pradesh,sultanpur district,844802,29338089,74816,34.7,88.6,1129.0
+west bengal,jhargram district,364140,12585118,27224,34.6,74.8,1053.0
+jammu & kashmir,reasi district,161465,5574835,9108,34.5,56.4,1094.0
+haryana,panipat district,1103364,37978024,71025,34.4,64.4,1178.0
+jammu & kashmir,bandipore district,143040,4916327,12141,34.4,84.9,965.0
+jammu & kashmir,pulwama district,230528,7936368,10444,34.4,45.3,1072.0
+uttar pradesh,jaunpur district,1605649,55014511,151304,34.3,94.2,1160.0
+meghalaya,east jaintia hills district,51614,1764638,955,34.2,18.5,1249.0
+sikkim,namchi district,76043,2590504,1353,34.1,17.8,1040.0
+gujarat,surat district,5936087,201601478,396519,34.0,66.8,1000.0
+ladakh,kargil district,72972,2481761,1047,34.0,14.3,1194.0
+jammu & kashmir,ramban district,110548,3744394,3597,33.9,32.5,1033.0
+jammu & kashmir,jammu district,1077002,36376849,66318,33.8,61.6,1125.0
+jharkhand,dumka district,435783,14676610,15734,33.7,36.1,1149.0
+rajasthan,salumber district,187970,6323620,11929,33.6,63.5,1218.0
+madhya pradesh,alirajpur district,215732,7216690,9463,33.5,43.9,1266.0
+chhattisgarh,khairagarh chhuikhadan gandai district,127822,4273302,5154,33.4,40.3,1093.0
+tamil nadu,tirupathur district,611315,20400757,41786,33.4,68.4,1369.0
+arunachal pradesh,siang district,12679,422702,133,33.3,10.5,1163.0
+assam,baksa district,198012,6593640,13259,33.3,67.0,1048.0
+chhattisgarh,dhamtari district,297814,9913984,15279,33.3,51.3,1266.0
+jammu & kashmir,udhampur district,229751,7647998,10873,33.3,47.3,1173.0
+uttar pradesh,hamirpur district,409645,13645360,28965,33.3,70.7,1150.0
+uttarakhand,nainital district,653240,21564039,54087,33.0,82.8,1081.0
+jharkhand,west singhbhum district,393232,12932528,11581,32.9,29.5,1094.0
+haryana,hisar district,1127535,36869760,97843,32.7,86.8,1711.0
+assam,nalbari district,285495,9311034,22097,32.6,77.4,1016.0
+rajasthan,deeg district,666700,21708206,33003,32.6,49.5,1111.0
+gujarat,mahesana district,1174556,38171930,56740,32.5,48.3,1338.0
+sikkim,gyalshing district,34405,1119535,587,32.5,17.1,1292.0
+uttar pradesh,kannauj district,669253,21749809,66500,32.5,99.4,1048.0
+meghalaya,west garo hills district,198200,6421154,8710,32.4,43.9,971.0
+uttar pradesh,maharajganj district,969112,31399123,75127,32.4,77.5,1131.0
+west bengal,bankura district,1239593,40102940,103002,32.4,83.1,1162.0
+jammu & kashmir,anantnag district,396835,12753501,38705,32.1,97.5,995.0
+jammu & kashmir,baramulla district,452576,14493705,40699,32.0,89.9,1008.0
+sikkim,soreng district,24290,776889,573,32.0,23.6,1146.0
+madhya pradesh,dindori district,263383,8377423,13611,31.8,51.7,1094.0
+uttar pradesh,kanpur nagar district,2597690,82570995,221356,31.8,85.2,1178.0
+west bengal,dakshin dinajpur district,651149,20664951,71119,31.7,109.2,1373.0
+chhattisgarh,kondagaon district,218397,6896760,5888,31.6,27.0,1215.0
+jammu & kashmir,poonch district,183644,5796263,8647,31.6,47.1,1249.0
+assam,biswanath district,265100,8327357,16764,31.4,63.2,777.0
+jammu & kashmir,rajouri district,249474,7841470,13542,31.4,54.3,1278.0
+uttar pradesh,balrampur district,569395,17893265,40015,31.4,70.3,1110.0
+uttar pradesh,gonda district,1036138,32176272,96101,31.1,92.7,1183.0
+uttar pradesh,budaun district,1034114,32014414,83067,31.0,80.3,1134.0
+uttar pradesh,chitrakoot district,304813,9447556,31012,31.0,101.7,1178.0
+arunachal pradesh,dibang valley district,6908,211796,26,30.7,3.8,1341.0
+arunachal pradesh,upper siang district,15893,487329,149,30.7,9.4,1333.0
+tamil nadu,tiruppur district,2018773,61845424,106121,30.6,52.6,961.0
+tamil nadu,chengalpattu district,2706058,82177962,130494,30.4,48.2,1052.0
+chandigarh,chandigarh district,829123,25137055,64346,30.3,77.6,1004.0
+andaman & nicobar islands,nicobar district,9934,299997,28,30.2,2.8,1622.0
+uttar pradesh,pilibhit district,681943,20580232,53794,30.2,78.9,1122.0
+gujarat,vadodara district,2202693,66298282,149674,30.1,68.0,953.0
+tamil nadu,vellore district,821262,24701946,53046,30.1,64.6,1331.0
+uttar pradesh,kaushambi district,437646,13172520,28000,30.1,64.0,1193.0
+arunachal pradesh,kurung kumey district,7991,238744,218,29.9,27.3,1488.0
+jharkhand,gumla district,272860,8157749,6097,29.9,22.3,1357.0
+tamil nadu,tiruvallur district,1997839,59754761,80350,29.9,40.2,1135.0
+uttar pradesh,raebareli district,823720,24574273,61439,29.8,74.6,1129.0
+gujarat,tapi district,268397,7984270,9584,29.7,35.7,1113.0
+himachal pradesh,kullu district,266297,7910270,15362,29.7,57.7,1345.0
+jammu & kashmir,budgam district,295344,8763825,15558,29.7,52.7,1112.0
+punjab,sas nagar district,1555702,46199012,98314,29.7,63.2,963.0
+tamil nadu,kancheepuram district,1058912,31446921,26414,29.7,24.9,964.0
+assam,udalguri district,285968,8475087,19161,29.6,67.0,942.0
+jharkhand,khunti district,140949,4171911,4334,29.6,30.7,1402.0
+uttar pradesh,mirzapur district,875729,25859376,77621,29.5,88.6,1246.0
+west bengal,kalimpong district,102778,3031832,2898,29.5,28.2,1173.0
+gujarat,jamnagar district,728437,21411527,32448,29.4,44.5,878.0
+jammu & kashmir,kishtwar district,89809,2617043,2530,29.1,28.2,993.0
+punjab,kapurthala district,364471,10609846,22011,29.1,60.4,1070.0
+uttarakhand,pauri garhwal district,265938,7748054,12088,29.1,45.5,1045.0
+uttar pradesh,barabanki district,1048794,30401058,111643,29.0,106.4,1062.0
+rajasthan,dungarpur district,445900,12874541,19716,28.9,44.2,1192.0
+tamil nadu,chennai district,6215686,179679932,417360,28.9,67.1,1099.0
+assam,lakhimpur district,423368,12193149,30576,28.8,72.2,827.0
+manipur,jiribam district,19461,558399,437,28.7,22.5,1252.0
+arunachal pradesh,changlang district,65944,1881575,1255,28.5,19.0,1154.0
+assam,tamulpur district,148083,4217108,8979,28.5,60.6,1072.0
+assam,tinsukia district,488784,13913248,25687,28.5,52.6,956.0
+uttar pradesh,banda district,530964,15135085,45191,28.5,85.1,1123.0
+uttarakhand,chamoli district,145515,4129071,3917,28.4,26.9,1296.0
+jammu & kashmir,kathua district,260377,7370927,11396,28.3,43.8,1163.0
+tamil nadu,the nilgiris district,306989,8615183,18060,28.1,58.8,1265.0
+assam,dibrugarh district,518303,14518888,21703,28.0,41.9,845.0
+haryana,karnal district,925983,25652429,74492,27.7,80.4,1421.0
+gujarat,dahod district,613068,16933391,18617,27.6,30.4,1134.0
+uttar pradesh,bhadohi district,522081,14424005,72244,27.6,138.4,1101.0
+uttar pradesh,fatehpur district,730302,20011856,65788,27.4,90.1,1198.0
+jharkhand,simdega district,143496,3902634,3525,27.2,24.6,1537.0
+jammu & kashmir,doda district,147939,4015464,4394,27.1,29.7,987.0
+nagaland,dimapur district,183603,4967829,9304,27.1,50.7,1341.0
+assam,karbi anglong district,250231,6761183,12381,27.0,49.5,893.0
+uttar pradesh,shahjahanpur district,1011541,27340701,88410,27.0,87.4,1206.0
+assam,sivasagar district,255464,6855933,14775,26.8,57.8,801.0
+haryana,panchkula district,474365,12728807,26943,26.8,56.8,1044.0
+puducherry,puducherry district,585100,15606710,40844,26.7,69.8,1123.0
+dadra & nagar haveli & daman & diu,diu district,24826,657709,1105,26.5,44.5,1392.0
+assam,golaghat district,425542,11228754,18623,26.4,43.8,845.0
+jammu & kashmir,mirpur district,255,6721,10,26.4,39.2,2401.0
+maharashtra,ratnagiri district,524576,13848541,14161,26.4,27.0,1127.0
+assam,dhemaji district,285951,7533742,19750,26.3,69.1,863.0
+meghalaya,east khasi hills district,253230,6655012,6726,26.3,26.6,1183.0
+uttarakhand,champawat district,97960,2566824,3121,26.2,31.9,1126.0
+punjab,pathankot district,332301,8677466,25573,26.1,77.0,1388.0
+tamil nadu,tiruvannamalai district,883828,23087075,60705,26.1,68.7,1277.0
+himachal pradesh,solan district,679941,17710629,26040,26.0,38.3,796.0
+tamil nadu,kallakurichi district,541240,14030753,33007,25.9,61.0,1374.0
+assam,jorhat district,359897,9287808,19001,25.8,52.8,849.0
+tamil nadu,salem district,1763372,45190578,100404,25.6,56.9,1454.0
+chhattisgarh,mohla manpur ambagarh chouki district,84786,2158730,2159,25.5,25.5,1173.0
+maharashtra,sindhudurg district,296619,7558165,9275,25.5,31.3,1219.0
+arunachal pradesh,shi yomi district,6109,154985,15,25.4,2.5,2120.0
+tamil nadu,coimbatore district,3153601,79944035,208047,25.4,66.0,1119.0
+jammu & kashmir,muzaffarabad district,1243,31484,7,25.3,5.6,2810.0
+assam,charaideo district,163599,4118189,6174,25.2,37.7,820.0
+jammu & kashmir,ganderbal district,128599,3229873,7398,25.1,57.5,1048.0
+tripura,north tripura district,142104,3562235,5658,25.1,39.8,1139.0
+puducherry,mahe district,21566,537816,1032,24.9,47.9,1368.0
+haryana,kurukshetra district,557185,13800114,53559,24.8,96.1,1524.0
+haryana,sirsa district,690128,17121408,37959,24.8,55.0,1722.0
+tamil nadu,ranipet district,556069,13588193,23878,24.4,42.9,1321.0
+gujarat,panchmahals district,598664,14559552,26426,24.3,44.1,971.0
+uttarakhand,uttarkashi district,117001,2845784,4027,24.3,34.4,1428.0
+gujarat,narmada district,170846,4126831,3827,24.2,22.4,996.0
+gujarat,dangs district,66973,1612460,1496,24.1,22.3,989.0
+uttar pradesh,hardoi district,1096682,26448028,99254,24.1,90.5,1172.0
+tamil nadu,dindigul district,932728,22404585,63258,24.0,67.8,1523.0
+tamil nadu,theni district,516798,12345455,39823,23.9,77.1,1641.0
+uttar pradesh,bahraich district,1023926,24510819,77455,23.9,75.6,1135.0
+jharkhand,jamtara district,335026,7915444,7882,23.6,23.5,1125.0
+nagaland,chumoukedima district,104347,2459057,3389,23.6,32.5,1156.0
+gujarat,morbi district,731697,17114095,18032,23.4,24.6,1415.0
+himachal pradesh,kinnaur district,49443,1156712,167,23.4,3.4,1318.0
+gujarat,navsari district,482976,11247754,19373,23.3,40.1,1134.0
+uttar pradesh,unnao district,887209,20661240,63425,23.3,71.5,1221.0
+haryana,ambala district,650109,15032050,50067,23.1,77.0,1256.0
+kerala,wayanad district,426923,9857443,33869,23.1,79.3,1200.0
+tamil nadu,tirunelveli district,722203,16412702,46193,22.7,64.0,1354.0
+uttarakhand,almora district,180992,4086066,6989,22.6,38.6,1175.0
+uttarakhand,pithoragarh district,172416,3890802,8496,22.6,49.3,1188.0
+haryana,yamunanagar district,626454,14090173,49238,22.5,78.6,1296.0
+gujarat,botad district,317962,7050498,20731,22.2,65.2,1495.0
+haryana,jind district,607617,13404299,52148,22.1,85.8,1980.0
+tripura,west tripura district,442037,9674111,25048,21.9,56.7,1127.0
+gujarat,mahisagar district,282541,6137394,9790,21.7,34.6,1140.0
+punjab,fatehgarh sahib district,308884,6715970,27572,21.7,89.3,1116.0
+assam,west karbi anglong district,78698,1702011,3234,21.6,41.1,809.0
+tamil nadu,erode district,1135364,24547544,61545,21.6,54.2,1235.0
+gujarat,kheda district,757478,16157480,45638,21.3,60.2,1096.0
+himachal pradesh,sirmaur district,286899,6086236,10545,21.2,36.8,944.0
+kerala,kasargod district,575308,12223358,34362,21.2,59.7,1273.0
+punjab,ludhiana district,2834380,60025670,161319,21.2,56.9,1124.0
+tamil nadu,namakkal district,828052,17552038,48841,21.2,59.0,1482.0
+andaman & nicobar islands,north and middle andaman district,30008,632360,444,21.1,14.8,1611.0
+assam,majuli district,48523,1019572,2914,21.0,60.1,792.0
+kerala,ernakulam district,2553505,53710581,143949,21.0,56.4,1033.0
+tamil nadu,karur district,453542,9530498,27105,21.0,59.8,1432.0
+haryana,fatehabad district,479172,9957401,34883,20.8,72.8,1912.0
+gujarat,surendranagar district,624714,12940991,20845,20.7,33.4,1469.0
+kerala,kozhikode district,1633191,33385313,97156,20.4,59.5,1074.0
+tamil nadu,thoothukudi district,677424,13826830,37239,20.4,55.0,1325.0
+tamil nadu,perambalur district,233597,4740871,8891,20.3,38.1,1485.0
+kerala,kannur district,1167934,23650060,66381,20.2,56.8,1183.0
+lakshadweep,lakshadweep district,18419,371196,374,20.2,20.3,998.0
+punjab,bathinda district,652707,13099461,47582,20.1,72.9,1344.0
+uttar pradesh,sitapur district,1345990,27065106,108914,20.1,80.9,1067.0
+himachal pradesh,kangra district,678305,13562231,35775,20.0,52.7,1205.0
+tamil nadu,madurai district,1497042,29998831,110144,20.0,73.6,1512.0
+uttar pradesh,lakhimpur kheri district,1504025,30118233,119776,20.0,79.6,1025.0
+nagaland,niuland district,120,2390,1,19.9,8.3,1090.0
+punjab,rupnagar district,300679,5977948,19193,19.9,63.8,1286.0
+puducherry,karaikal district,92000,1821128,8100,19.8,88.0,1260.0
+tamil nadu,kanniyakumari district,775938,15305255,51933,19.7,66.9,1661.0
+tamil nadu,sivaganga district,480988,9280151,23878,19.3,49.6,1587.0
+tamil nadu,viluppuram district,711501,13664685,43884,19.2,61.7,1301.0
+meghalaya,south west garo hills district,49696,951488,734,19.1,14.8,1099.0
+punjab,amritsar district,1219911,23249586,100269,19.1,82.2,1604.0
+punjab,jalandhar district,1105536,20981567,66786,19.0,60.4,1301.0
+tamil nadu,tiruchirappalli district,1242623,23611945,70943,19.0,57.1,1413.0
+himachal pradesh,una district,229301,4304644,14351,18.8,62.6,1236.0
+nagaland,kohima district,98267,1834641,3913,18.7,39.8,1436.0
+punjab,patiala district,962685,18047391,68658,18.7,71.3,1312.0
+gujarat,devbhumi dwarka district,239469,4455573,12813,18.6,53.5,1217.0
+uttar pradesh,shravasti district,267873,4975721,29805,18.6,111.3,1182.0
+gujarat,gir somnath district,395797,7300379,29545,18.4,74.6,1571.0
+himachal pradesh,shimla district,434661,7992452,9559,18.4,22.0,1117.0
+kerala,malappuram district,1843408,33828704,164619,18.4,89.3,1075.0
+tamil nadu,nagapattinam district,207623,3810707,16320,18.4,78.6,1301.0
+punjab,tarn taran district,360111,6589627,19428,18.3,54.0,2110.0
+meghalaya,north garo hills district,42420,770247,399,18.2,9.4,881.0
+tamil nadu,tenkasi district,440344,8027441,24824,18.2,56.4,1504.0
+tripura,unakoti district,89899,1633398,2752,18.2,30.6,1013.0
+uttarakhand,bageshwar district,74576,1360001,2047,18.2,27.4,1155.0
+gujarat,rajkot district,1844876,33468985,115528,18.1,62.6,1323.0
+punjab,gurdaspur district,538763,9751226,38371,18.1,71.2,1757.0
+mizoram,kolasib district,27161,487571,1419,18.0,52.2,1155.0
+tamil nadu,cuddalore district,979145,17253514,61807,17.6,63.1,1376.0
+tamil nadu,pudukkottai district,521706,9189681,21484,17.6,41.2,1533.0
+tamil nadu,ramanathapuram district,484803,8534958,23359,17.6,48.2,1562.0
+tamil nadu,virudhunagar district,685785,12061180,42923,17.6,62.6,1417.0
+haryana,kaithal district,492920,8615306,55360,17.5,112.3,1928.0
+kerala,thiruvananthapuram district,1697961,29708347,103214,17.5,60.8,1147.0
+nagaland,mon district,44304,770026,299,17.4,6.7,1264.0
+punjab,fazilka district,502467,8765617,38594,17.4,76.8,1485.0
+himachal pradesh,bilaspur district,162388,2815832,5355,17.3,33.0,1159.0
+punjab,hoshiarpur district,566617,9789677,33238,17.3,58.7,1457.0
+nagaland,meluri district,4961,85297,25,17.2,5.0,1742.0
+himachal pradesh,hamirpur district,220830,3753732,13790,17.0,62.4,1178.0
+tamil nadu,ariyalur district,267209,4482816,12108,16.8,45.3,1446.0
+manipur,kangpokpi district,31832,529270,228,16.6,7.2,1901.0
+punjab,ferozepur district,386612,6432438,31154,16.6,80.6,1559.0
+gujarat,chhotaudepur district,198583,3256480,4982,16.4,25.1,1215.0
+himachal pradesh,chamba district,182594,2978163,7476,16.3,40.9,1188.0
+kerala,idukki district,541617,8810940,32521,16.3,60.0,1300.0
+tamil nadu,thanjavur district,867508,14103875,49010,16.3,56.5,1486.0
+gujarat,anand district,788309,12636908,47377,16.0,60.1,1172.0
+gujarat,bhavnagar district,956952,15337119,74999,16.0,78.4,1534.0
+meghalaya,east garo hills district,38695,618280,633,16.0,16.4,873.0
+tamil nadu,mayiladuthurai district,295000,4732029,24596,16.0,83.4,1432.0
+manipur,tengnoupal district,9787,155663,153,15.9,15.6,2243.0
+mizoram,siaha district,13204,210135,824,15.9,62.4,1162.0
+kerala,kollam district,1114869,17340785,72421,15.6,65.0,1251.0
+kerala,palakkad district,1136377,17712733,87983,15.6,77.4,1189.0
+kerala,alappuzha district,910417,14056562,68176,15.4,74.9,1177.0
+nagaland,mokokchung district,40232,618890,867,15.4,21.6,1336.0
+kerala,thrissur district,1327312,20261573,102993,15.3,77.6,1154.0
+himachal pradesh,mandi district,378762,5727956,15444,15.1,40.8,1199.0
+punjab,malerkotla district,155514,2346114,11187,15.1,71.9,1539.0
+mizoram,aizawl district,164163,2457520,16407,15.0,99.9,1373.0
+tripura,south tripura district,120944,1793135,6386,14.8,52.8,1350.0
+kerala,pathanamthitta district,487491,7174677,31349,14.7,64.3,1231.0
+kerala,kottayam district,888447,12928740,52611,14.6,59.2,1191.0
+punjab,faridkot district,228922,3314633,20635,14.5,90.1,1601.0
+tripura,dhalai district,115534,1672139,2940,14.5,25.4,1119.0
+gujarat,amreli district,434295,6205543,21573,14.3,49.7,1420.0
+nagaland,wokha district,24100,344212,107,14.3,4.4,1477.0
+tamil nadu,tiruvarur district,363956,5220121,22112,14.3,60.8,1488.0
+punjab,shaheed bhagat singh nagar district,174023,2464453,8832,14.2,50.8,1468.0
+tripura,gomati district,129970,1849515,5347,14.2,41.1,1279.0
+manipur,noney district,11418,160801,22,14.1,1.9,1638.0
+meghalaya,south garo hills district,30453,429334,137,14.1,4.5,1075.0
+meghalaya,west khasi hills district,17274,241022,47,14.0,2.7,1740.0
+nagaland,tuensang district,22132,308411,362,13.9,16.4,1268.0
+manipur,senapati district,26306,363888,1023,13.8,38.9,1645.0
+nagaland,peren district,17052,234914,378,13.8,22.2,1256.0
+tripura,sepahijala district,121938,1664679,5579,13.7,45.8,1343.0
+meghalaya,south west khasi hills district,10957,148392,19,13.5,1.7,2135.0
+nagaland,longleng district,9582,129417,123,13.5,12.8,1253.0
+punjab,barnala district,208611,2788820,13130,13.4,62.9,1627.0
+punjab,moga district,319177,4231131,28657,13.3,89.8,1713.0
+gujarat,porbandar district,161118,2128556,10103,13.2,62.7,1798.0
+manipur,churachandpur district,65041,853637,2119,13.1,32.6,1593.0
+punjab,sangrur district,437953,5598997,29143,12.8,66.5,1658.0
+tripura,khowai district,79657,1013782,1447,12.7,18.2,1217.0
+manipur,chandel district,13771,173597,114,12.6,8.3,1849.0
+manipur,imphal west district,250480,3117269,12915,12.4,51.6,1632.0
+manipur,tamenglong district,15066,186108,97,12.4,6.4,1716.0
+punjab,sri muktsar sahib district,323828,4023393,27353,12.4,84.5,1648.0
+manipur,kamjong district,3616,44435,9,12.3,2.5,2140.0
+gujarat,junagadh district,447860,5426332,34942,12.1,78.0,1575.0
+nagaland,noklak district,4088,48540,2,11.9,0.5,1662.0
+nagaland,kiphire district,11608,136629,150,11.8,12.9,1539.0
+manipur,ukhrul district,23605,275269,89,11.7,3.8,2040.0
+manipur,bishnupur district,74212,864524,4865,11.6,65.6,1720.0
+mizoram,mamit district,23308,265443,825,11.4,35.4,1254.0
+nagaland,phek district,15007,170492,95,11.4,6.3,1472.0
+manipur,imphal east district,152751,1728134,6579,11.3,43.1,1524.0
+mizoram,serchhip district,13472,151482,1047,11.2,77.7,1369.0
+nagaland,zunheboto district,16367,184103,181,11.2,11.1,1546.0
+mizoram,lunglei district,38804,407700,1559,10.5,40.2,1283.0
+punjab,mansa district,255495,2684030,21813,10.5,85.4,1738.0
+mizoram,lawngtlai district,38269,398954,381,10.4,10.0,1232.0
+meghalaya,eastern west khasi hills district,7692,76764,14,10.0,1.8,1308.0
+mizoram,saitual district,6864,68262,314,9.9,45.7,1282.0
+nagaland,tseminyu district,3232,31066,35,9.6,10.8,1540.0
+manipur,thoubal district,121356,1132307,4424,9.3,36.5,1476.0
+nagaland,shamator district,3469,32412,5,9.3,1.4,1590.0
+manipur,kakching district,33406,304958,1379,9.1,41.3,1673.0
+mizoram,hnahthial district,4730,42012,332,8.9,70.2,1361.0
+mizoram,khawzawl district,5181,40885,356,7.9,68.7,1153.0
+mizoram,champhai district,13914,100662,923,7.2,66.3,1497.0
+manipur,pherzawl district,1928,11432,3,5.9,1.6,1415.0

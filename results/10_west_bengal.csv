@@ -1,0 +1,24 @@
+district,region,users,txns,txns_per_user,national_median_txns_per_user,merchants_per_1000_users,national_median_merchants_per_1000_users
+malda district,North Bengal,1861790,100728885,54.1,43.4,97.7,64.4
+uttar dinajpur district,North Bengal,1268350,59201120,46.7,43.4,89.3,64.4
+purba medinipur district,South Bengal,2152939,98690655,45.8,43.4,77.5,64.4
+kolkata district,South Bengal,3957483,178593980,45.1,43.4,79.2,64.4
+north twenty four parganas district,South Bengal,6080783,270929160,44.6,43.4,86.6,64.4
+paschim bardhaman district,South Bengal,1737895,77353246,44.5,43.4,73.3,64.4
+murshidabad district,South Bengal,3131835,137557474,43.9,43.4,118.1,64.4
+paschim medinipur district,South Bengal,1918896,83507774,43.5,43.4,79.9,64.4
+cooch behar district,North Bengal,1223787,49830577,40.7,43.4,90.1,64.4
+nadia district,South Bengal,2331051,94303859,40.5,43.4,85.2,64.4
+birbhum district,South Bengal,1399953,54763936,39.1,43.4,89.5,64.4
+darjeeling district,North Bengal,1141432,43173444,37.8,43.4,64.2,64.4
+howrah district,South Bengal,2608014,97633524,37.4,43.4,68.9,64.4
+alipurduar district,North Bengal,621707,22512831,36.2,43.4,90.8,64.4
+hooghly district,South Bengal,2429162,87725602,36.1,43.4,76.3,64.4
+jalpaiguri district,North Bengal,849446,30674417,36.1,43.4,57.8,64.4
+purulia district,South Bengal,998795,35421506,35.5,43.4,86.4,64.4
+south twenty four parganas district,South Bengal,3352814,118227823,35.3,43.4,71.2,64.4
+purba bardhaman district,South Bengal,1848710,65138355,35.2,43.4,93.0,64.4
+jhargram district,South Bengal,364140,12585118,34.6,43.4,74.8,64.4
+bankura district,South Bengal,1239593,40102940,32.4,43.4,83.1,64.4
+dakshin dinajpur district,North Bengal,651149,20664951,31.7,43.4,109.2,64.4
+kalimpong district,North Bengal,102778,3031832,29.5,43.4,28.2,64.4
