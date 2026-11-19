@@ -1,6 +1,6 @@
 [project]
 name = "india-payments-product-case"
-version = "0.1.0"
+version = "0.2.0"
 description = "A product case study on India's digital payments, built from PhonePe's open Pulse data (SQL on DuckDB)."
 readme = "README.md"
 requires-python = ">=3.10"

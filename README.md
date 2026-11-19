@@ -51,7 +51,7 @@ Guardrails: average transaction value (now ₹1,177 and falling), retail share, 
 
 | # | Recommendation | Why | Size of the prize (upper bound) | How to start |
 |---|---|---|---|---|
-| 1 | **Find out why registered users in low-usage districts rarely pay with the app, then fix the biggest cause.** | 170 of 680 large districts are below 31 transactions per user. Five states hold 83% of the gap. | +2.3 billion transactions per quarter (+6.0% of volume) if they reach the median. | Research in 3 to 4 of the largest gap districts (Tamil Nadu, Kerala, Punjab). Questions: which other apps do they use, and for what? |
+| 1 | **Find out why registered users in low-usage districts rarely pay with the app, then fix the biggest cause.** | 170 of 680 large districts are below 31 transactions per user. Five states hold 83% of the gap. | +2.3 billion transactions per quarter (+6.0% of volume) if they reach the median; 3.8% to 9.6% under other reasonable assumptions. | Research in 3 to 4 of the largest gap districts (Tamil Nadu, Kerala, Punjab). Questions: which other apps do they use, and for what? |
 | 2 | **Run a district-level experiment on the winning idea.** | Randomising by district avoids needing user-level tracking. | See the sizing below. | Split the 168 lowest-usage districts into two groups of 84. |
 | 3 | **Do not treat merchant acquisition as the fix for low usage.** | Merchant density barely predicts usage (0.10). | Merchants still matter for the retail share, but not as the lever for these districts. | Keep onboarding on its own track. |
 | 4 | **Watch value per transaction.** | Retail is growing and tickets are shrinking (down 11% in two years). | Not sized: depends on the revenue model, which the data does not include. | Add value per transaction to the growth dashboard. |
@@ -62,6 +62,10 @@ Guardrails: average transaction value (now ₹1,177 and falling), retail share, 
 ### Experiment sizing
 
 Computed in [`analysis/sizing.py`](analysis/sizing.py) from the real year-over-year variation across districts: the 168 lowest-usage districts have mean growth in transactions per user of 10.3% with a standard deviation of 6.2 points. At 80% power and 5% significance, the districts needed per arm are 67 to detect +3 points, 24 for +5 points, and 10 for +8 points. Split in two (84 per arm), the smallest extra growth the test could reliably detect is about **2.7 points**. Details: [`results/sizing.md`](results/sizing.md).
+
+### How robust is the 6%?
+
+The headline depends on three choices I made: the registered-user floor for a district (100k), how much of the bottom to lift (25%), and the target (the median). Varying each over 27 combinations ([`results/robustness.md`](results/robustness.md)) gives **3.8% to 9.6% of volume**, with the headline 6.0% near the middle. Every combination is positive, so the direction is solid. The size depends on how ambitious the target is, so read it as an order of magnitude, not a forecast.
 
 ## A closer look at West Bengal
 

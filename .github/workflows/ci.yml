@@ -20,5 +20,6 @@ jobs:
       - run: uv run python analysis/run.py > /dev/null
       - run: uv run python analysis/charts.py
       - run: uv run python analysis/sizing.py > /dev/null
+      - run: uv run python analysis/robustness.py > /dev/null
       - name: Results must match the committed ones
         run: git diff --exit-code results/
