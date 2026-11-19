@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.0 - 2026-11-19
+
+### Added
+- Persistence check: low-usage districts do not catch up on their own. District ranks in 2023 and 2026 correlate at 0.96, and 83.9% of the lowest quarter in 2023 is still in the lowest quarter (`sql/12_persistence.sql`, `sql/13_persistence_rank_correlation.sql`). Closes #1.
+
 ## 0.2.0 - 2026-11-19
 
 ### Added

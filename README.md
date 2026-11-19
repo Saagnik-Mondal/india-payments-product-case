@@ -51,7 +51,7 @@ Guardrails: average transaction value (now ₹1,177 and falling), retail share, 
 
 | # | Recommendation | Why | Size of the prize (upper bound) | How to start |
 |---|---|---|---|---|
-| 1 | **Find out why registered users in low-usage districts rarely pay with the app, then fix the biggest cause.** | 170 of 680 large districts are below 31 transactions per user. Five states hold 83% of the gap. | +2.3 billion transactions per quarter (+6.0% of volume) if they reach the median; 3.8% to 9.6% under other reasonable assumptions. | Research in 3 to 4 of the largest gap districts (Tamil Nadu, Kerala, Punjab). Questions: which other apps do they use, and for what? |
+| 1 | **Find out why registered users in low-usage districts rarely pay with the app, then fix the biggest cause.** | 170 of 680 large districts are below 31 transactions per user. Five states hold 83% of the gap, and it is persistent: district ranks in 2023 and 2026 correlate at 0.96, and 84% of the lowest quarter in 2023 is still there. | +2.3 billion transactions per quarter (+6.0% of volume) if they reach the median; 3.8% to 9.6% under other reasonable assumptions. | Research in 3 to 4 of the largest gap districts (Tamil Nadu, Kerala, Punjab). Questions: which other apps do they use, and for what? |
 | 2 | **Run a district-level experiment on the winning idea.** | Randomising by district avoids needing user-level tracking. | See the sizing below. | Split the 168 lowest-usage districts into two groups of 84. |
 | 3 | **Do not treat merchant acquisition as the fix for low usage.** | Merchant density barely predicts usage (0.10). | Merchants still matter for the retail share, but not as the lever for these districts. | Keep onboarding on its own track. |
 | 4 | **Watch value per transaction.** | Retail is growing and tickets are shrinking (down 11% in two years). | Not sized: depends on the revenue model, which the data does not include. | Add value per transaction to the growth dashboard. |
@@ -66,6 +66,19 @@ Computed in [`analysis/sizing.py`](analysis/sizing.py) from the real year-over-y
 ### How robust is the 6%?
 
 The headline depends on three choices I made: the registered-user floor for a district (100k), how much of the bottom to lift (25%), and the target (the median). Varying each over 27 combinations ([`results/robustness.md`](results/robustness.md)) gives **3.8% to 9.6% of volume**, with the headline 6.0% near the middle. Every combination is positive, so the direction is solid. The size depends on how ambitious the target is, so read it as an order of magnitude, not a forecast.
+
+### Is low usage temporary? No
+
+A fair objection to the gap estimate: perhaps low-usage districts are just later adopters and will catch up on their own. I checked ([`results/12_persistence.csv`](results/12_persistence.csv), [`results/13_persistence_rank_correlation.csv`](results/13_persistence_rank_correlation.csv)) by grouping 644 districts into quarters by transactions per user in 2023 and looking at where they are now:
+
+| Quarter in 2023 | Transactions per user then | Now | Growth multiple | Still in the lowest quarter | Now in the highest quarter |
+|---|---:|---:|---:|---:|---:|
+| Lowest | 13.7 | 23.9 | 1.73x | 83.9% | 0.0% |
+| Second | 20.7 | 38.2 | 1.85x | 16.1% | 0.0% |
+| Third | 27.9 | 49.7 | 1.78x | 0.0% | 9.9% |
+| Highest | 44.1 | 79.1 | 1.80x | 0.0% | 90.1% |
+
+The rank correlation between 2023 and 2026 is **0.96**. Every group grew by about 1.7 to 1.9 times, so the lowest districts did not grow faster, and the absolute gap to the top widened (30 to 55 transactions per user). The gap is a stable feature of a district, not a phase, which is why waiting is not a strategy.
 
 ## A closer look at West Bengal
 
